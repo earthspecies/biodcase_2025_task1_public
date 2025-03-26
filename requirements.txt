@@ -1,0 +1,8 @@
+joblib==1.4.2
+librosa==0.10.2.post1
+numpy==1.26.4
+pandas==2.2.3
+PyYAML==6.0.2
+torch==2.6.0
+torchaudio==2.6.0
+tqdm==4.67.1
